@@ -6,9 +6,7 @@
 
     <test name="Example Test" preserve-order="false">
         <classes>
-            <class name="LoginTests" />
-            <class name="ProfileTests"/>
-            <class name="BaseTest"/>
+            <class name="CIPipeline" />
         </classes>
     </test>
 </suite>

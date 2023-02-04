@@ -9,7 +9,7 @@
         <classes>
             <class name="ProfileTests">
                 <methods>
-                    <include name="changeTheme" />
+                    <include name="LoginValidEmailPasswordTest" />
                 </methods>
             </class>
         </classes>
